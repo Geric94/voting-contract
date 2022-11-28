@@ -1,2 +1,0 @@
-YSF token contract deployed to address: 0x58C08eBE942C0a58C2Ce9603aafdEF1691b202CB
-YSF Governor contract deployed to address: 0xb3C2b149930a3543219Fc9B0AA08DF3c68a5d579
